@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Rectane</string>
+    <string name="btnCamera">手机拍照</string>
+    <string name="btnGetPicture">从手机相册选取</string>
+    <string name="btnCancel">取消</string>
+
+</resources>

@@ -1,0 +1,6 @@
+5.1.3f1:2.0.0.0
+Android
+E:/IDETool/Unity5/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+E:/IDETool/Unity5/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+E:/IDETool/Unity5/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+E:/IDETool/Unity5/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll
