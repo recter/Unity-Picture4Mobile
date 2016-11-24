@@ -2,7 +2,7 @@
 //	创建日期:	2015-9-23
 //	文件名称:	UserAvatarActivity.java
 //  创建作者:	Rect 	
-//	版权所有:	CIYPAY
+//	版权所有:	shadowkong.com
 //	相关说明:	
 //*************************************************************************
 package com.rect.avatar;
